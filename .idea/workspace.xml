@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6e8b7ac-cac8-4d23-9c91-b5caefbda4b3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sencis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sencis_Logo.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sencis_Logo_Vazado.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sencis_Logo_Vazado.xcf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sencis_Logomarca.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sencis_Logomarca.xcf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/css/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/css/nivo-lightbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/css/owl.theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/fonts/LineIcons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/fonts/LineIcons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/fonts/LineIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/fonts/LineIcons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/fonts/line-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/img/Sencis_Logo_Vazado.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/img/Sencis_Logomarca.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/img/about/img-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/img/feature/img-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/img/feature/intro-mobile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/img/footer-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/img/hero-area.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/img/intro-mobile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/img/intro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/img/location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/img/logo.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/img/team/team-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/img/team/team-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/img/team/team-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/img/team/team-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/img/testimonial/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/img/testimonial/img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/img/testimonial/img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/img/testimonial/img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/img/testimonial/img5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/img/testimonial/img6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/js/contact-form-script.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/js/form-validator.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/js/jquery-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/js/jquery.easing.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/js/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/js/jquery.nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/js/nivo-lightbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/js/scrolling-nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/js/wow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/scss/_contact.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/scss/_feature.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/scss/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/scss/_global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/scss/_hero-area.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/scss/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/scss/_pricing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/scss/_service.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/scss/_team.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/scss/_testimonial.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/scss/colors/_presets.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/scss/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/static/scss/responsive.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/templates/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/templates/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/templates/hero.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/templates/produtos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/templates/servicos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sencis/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sencis/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sencis/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sencis/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sencis/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/css/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/css/nivo-lightbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/css/owl.theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/fonts/LineIcons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/fonts/LineIcons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/fonts/LineIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/fonts/LineIcons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/fonts/line-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/about/img-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/feature/img-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/feature/intro-mobile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/footer-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/hero-area.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/intro-mobile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/intro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/logo.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/team/team-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/team/team-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/team/team-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/team/team-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/testimonial/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/testimonial/img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/testimonial/img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/testimonial/img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/testimonial/img5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/img/testimonial/img6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/js/contact-form-script.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/js/form-validator.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/js/jquery-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/js/jquery.easing.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/js/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/js/jquery.nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/js/nivo-lightbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/js/scrolling-nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/js/wow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/scss/_contact.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/scss/_feature.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/scss/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/scss/_global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/scss/_hero-area.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/scss/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/scss/_pricing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/scss/_service.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/scss/_team.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/scss/_testimonial.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/scss/colors/_presets.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/scss/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/scss/responsive.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2eYauRW3Av7ww2ssSezM8uzqeqB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6e8b7ac-cac8-4d23-9c91-b5caefbda4b3" name="Changes" comment="" />
+      <created>1712084188430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712084188430</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
