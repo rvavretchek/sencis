@@ -8,6 +8,7 @@ def get_file_path(_instance, filename):
     filename = f'{uuid.uuid4()}.{ext}'
     return filename
 
+
 class Base(models.Model):
     criados = models.DateField('Criação', auto_now=True)
     modificado = models.DateField('Atualização', auto_now=True)
