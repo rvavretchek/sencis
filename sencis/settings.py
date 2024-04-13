@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'sencis.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/5.0/ref/settings/#databases
 
-
+"""
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
@@ -96,7 +96,7 @@ DATABASES = {
         default='postgres://sa:GWG33Ge7G1Zc1SP99e229QRtfDaMQREJ@dpg-co66p6gl5elc73acse7g-a/sencis',
         conn_max_age=600)
 }
-"""
+
 # Password validation
 # https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators
 
