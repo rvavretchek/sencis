@@ -1,7 +1,7 @@
 databases:
   - name: sencis
     plan: free
-    databaseName: sencisdb
+    databaseName: sencis
     user: sa
 
 services:
@@ -14,7 +14,7 @@ services:
     envVars:
       - key: DATABASE_URL
         fromDatabase:
-          name: sencisdb
+          name: sencis
           property: connectionString
       - key: SECRET_KEY
         generateValue: true
