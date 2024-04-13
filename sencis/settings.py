@@ -10,7 +10,9 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/5.0/ref/settings/
 """
 import os.path
+import dj_database_url
 from pathlib import Path
+
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -23,7 +25,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-om3y3uj@6%5rreszvi&nqpa+ys(46rzr0#ls+o+k^rtegn-2m4'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 
@@ -144,3 +146,5 @@ EMAIL_USE_TSL = True
 EMAIL_HOST_PASSWORD = 'xrntVykXHSgP3Iha'
 DEFAULT_FROM_EMAIL = 'vavrecek@gmail.com'
 
+
+LOGOUT_REDIRECT_URL = 'index'
