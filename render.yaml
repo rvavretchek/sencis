@@ -1,0 +1,22 @@
+databases:
+  - name: sencis
+    plan: free
+    databaseName: sencis
+    user: sa
+
+services:
+  - type: web
+    plan: free
+    name: sencis
+    runtime: python
+    buildCommand: "./build.sh"
+    startCommand: "python -m gunicorn sencis.asgi:application -k uvicorn.workers.UvicornWorker"
+    envVars:
+      - key: DATABASE_URL
+        fromDatabase:
+          name: sencis
+          property: connectionString
+      - key: SECRET_KEY
+        generateValue: true
+      - key: WEB_CONCURRENCY
+        value: 4
