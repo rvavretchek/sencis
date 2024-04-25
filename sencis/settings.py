@@ -33,11 +33,8 @@ ALLOWED_HOSTS = ['*']
 # Application definition
 
 INSTALLED_APPS = [
-    'core'
-    
-    'django_adminlte',
-    'django_adminlte_theme',
-
+    'adminlte3',
+    'adminlte3_theme',
 
     'django.contrib.admin',
     'django.contrib.auth',
@@ -46,6 +43,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
+    'core'
 ]
 
 MIDDLEWARE = [
