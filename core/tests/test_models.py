@@ -22,16 +22,16 @@ class ServicoTestCase(TestCase):
         self.servico = mommy.make('Servico')
 
     def test_str(self):
-        self.assertEquals(str(self.servico), self.servico.servico)
+        self.assertEqual(str(self.servico), self.servico.servico)
 
-"""
+
 class CategoriaTestCase(TestCase):
 
     def setUp(self):
         self.categoria = mommy.make('Categoria')
 
     def test_str(self):
-        self.assertEquals(str(self.categoria), self.categoria.categoria)
+        self.assertEqual(str(self.categoria), self.categoria.categoria)
 
 
 class ProdutoTestCase(TestCase):
@@ -40,5 +40,5 @@ class ProdutoTestCase(TestCase):
         self.produto = mommy.make('Produto')
 
     def test_str(self):
-        self.assertEquals(str(self.produto), self.produto.nome)
-"""
+        self.assertEqual(str(self.produto), self.produto.nome)
+

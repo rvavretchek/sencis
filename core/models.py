@@ -41,11 +41,11 @@ class Servico(Base):
 
 
 class Categoria(Base):
-    categoria = models.CharField('Categoria de Produto', max_length=100)
+    categoria = models.CharField('Categoria', max_length=100)
 
     class Meta:
-        verbose_name = 'Categoria de Produto'
-        verbose_name_plural = 'Categorias de Produtos'
+        verbose_name = 'Categoria'
+        verbose_name_plural = 'Categorias'
 
     def __str__(self):
         return self.categoria
@@ -53,7 +53,7 @@ class Categoria(Base):
 
 class Produto(Base):
     nome = models.CharField('Nome', max_length=100)
-    categoria = models.ForeignKey('core.Categoria', verbose_name='Categoria de Produto', on_delete=models.CASCADE)
+    categoria = models.ForeignKey('core.Categoria', verbose_name='Categoria', on_delete=models.CASCADE)
     descricao = models.TextField('Descrição', max_length=300)
     icone = StdImageField('Icone', upload_to=get_file_path, variations={'thumb': {'width': 800, 'height': 800, 'crop': False}})
 
