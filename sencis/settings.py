@@ -25,7 +25,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-om3y3uj@6%5rreszvi&nqpa+ys(46rzr0#ls+o+k^rtegn-2m4'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 
@@ -81,24 +81,24 @@ WSGI_APPLICATION = 'sencis.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/5.0/ref/settings/#databases
 
-"""
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'sencis',
-        'USER': 'sa',
-        'PASSWORD': 'GWG33Ge7G1Zc1SP99e229QRtfDaMQREJ',
-        'HOST': 'dpg-co66p6gl5elc73acse7g-a.oregon-postgres.render.com',
-        'PORT': '5432',
+if DEBUG:
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.db.backends.postgresql',
+            'NAME': 'sencis',
+            'USER': 'sa',
+            'PASSWORD': 'GWG33Ge7G1Zc1SP99e229QRtfDaMQREJ',
+            'HOST': 'dpg-co66p6gl5elc73acse7g-a.oregon-postgres.render.com',
+            'PORT': '5432',
+        }
     }
-}
-"""
+else:
+    DATABASES = {
+        'default': dj_database_url.config(
+            default='postgres://sa:GWG33Ge7G1Zc1SP99e229QRtfDaMQREJ@dpg-co66p6gl5elc73acse7g-a/sencis',
+            conn_max_age=600)
+    }
 
-DATABASES = {
-    'default': dj_database_url.config(
-        default='postgres://sa:GWG33Ge7G1Zc1SP99e229QRtfDaMQREJ@dpg-co66p6gl5elc73acse7g-a/sencis',
-        conn_max_age=600)
-}
 
 # Password validation
 # https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators
